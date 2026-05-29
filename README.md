@@ -4,7 +4,7 @@
 
 **Senior Software Engineer** — performance-critical systems at the intersection of **compilers, distributed runtimes, and cryptography**.
 
-Currently at **Gear Technologies**, fully on Rust. Core developer of the **Vara Network** L1 and architect of **Vara.eth** — an Ethereum-anchored rollup with its own block-producer, announces protocol, signer, and BFT consensus (Malachite). **Team lead of Vara.eth** since 2026.
+Currently at **Gear Technologies**, fully on Rust. Core developer of the **Vara Network** L1 and architect of **Vara.eth** — an Ethereum coprocessor with a fast BFT consensus on Malachite, the Gear protocol for program execution, and governance through Ethereum smart contracts. **Team lead of Vara.eth** since 2026.
 
 Before that: low-level toolchains — compiler support at **Intel**, an LLVM back-end and DSP simulator at **MIPT**, internal binary translators at **NVIDIA**, and a Linux-based universal binary translator at **Huawei** (Senior SWE / Team Lead). Mostly C/C++, with Python and Bash around it.
 

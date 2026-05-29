@@ -1,19 +1,19 @@
 # Grigorii Sobol
 
 **Senior Software Engineer**
-Compilers · Distributed runtimes · Cryptography
+Systems · Compilers · Distributed runtimes
 
 - **Email:** grishasobolo@gmail.com *(preferred means of communication)*
 - **GitHub:** https://github.com/grishasobol
 - **LinkedIn:** https://www.linkedin.com/in/gsobol/
-- **Location:** Belgrade, Serbia · Citizenship: Russia
-- **Open to:** remote and relocation in EU / UK / US · ready for business trips
+- **Location:** Belgrade, Serbia
+- **Open to:** remote and relocation in EU / UK / US
 
 ---
 
 ## Summary
 
-Team lead of Vara.eth at Gear Technologies — an Ethereum-anchored L1 rollup I build in Rust, from the consensus layer down to the WASM runtime. 10+ years on performance-critical systems where compilers, distributed runtimes, and cryptography meet, with a strong low-level background — LLVM, binary translators, and toolchains at Intel, NVIDIA, Huawei, and MIPT. What I do best: invent algorithms, design solutions, and carry them all the way to a finished, production-ready implementation — increasingly in close collaboration with AI coding tools (Claude Code, Codex).
+Senior software engineer and team lead with 10+ years on performance-critical systems — compilers, binary translation, JIT/WASM runtimes, distributed consensus, and applied cryptography, mostly in Rust and C++. Currently leading Vara.eth at Gear Technologies, an Ethereum coprocessor I architect from the consensus layer down to the WASM runtime. Targeting AI compute-infrastructure roles: runtimes, compilers, and performance engineering for large-scale, compute-hungry workloads.
 
 ---
 
@@ -21,13 +21,13 @@ Team lead of Vara.eth at Gear Technologies — an Ethereum-anchored L1 rollup I 
 
 ### Senior Software Engineer — Gear Technologies
 **September 2021 — present**
-Remote (gear-tech.io) · Blockchain / L1 protocol development
+Remote (gear-tech.io) · L1 protocol / distributed systems
 
-- Team lead of **Vara.eth** since January 2026; architect of the protocol — an Ethereum-anchored rollup with its own block-producer, announces protocol, signer, and BFT consensus on Malachite.
-- Core developer of the **Vara Network** L1 (Substrate-style runtime).
-- WebAssembly sandboxing and JIT internals — Wasmer, Wasmi, dlmalloc.
-- Applied cryptography — secp256k1, FROST threshold signatures, DLEQ proofs.
-- Design algorithms and solutions and take them end-to-end to merged, production code.
+- **Team lead of Vara.eth** since January 2026 — own the architecture end-to-end: a coprocessor for Ethereum with fast BFT consensus on Malachite, the Gear protocol for program execution, and governance through Ethereum smart contracts.
+- Core developer of the **Vara Network** L1 (Substrate-style runtime) in Rust.
+- Contributed fixes and extensions to WebAssembly sandboxing and JIT / runtime internals — Wasmer, Wasmi, dlmalloc.
+- Implemented protocol-critical cryptography — secp256k1, FROST threshold signatures, DLEQ proofs.
+- Drive solutions from design through merged, production code and review.
 - **Work examples:**
   - dlmalloc port for Gear WASM programs — https://github.com/gear-tech/dlmalloc-rust
   - Malachite BFT for Vara.eth — https://github.com/gear-tech/gear/pull/5419
@@ -37,13 +37,13 @@ Remote (gear-tech.io) · Blockchain / L1 protocol development
 **August 2019 — September 2021**
 Moscow · Telecommunications / Mobile Communications
 
-- Developed new optimizations for a Linux-based universal binary translator, improving target-code performance by ~50%.
+- Developed optimizations for a Linux-based universal binary translator, improving target-code performance by up to ~50% on key workloads.
 - Improved translator stability and built performance-testing tooling for its runtime environments.
 
 ### Engineer / Programmer — NVIDIA (Russian Branch)
 **August 2018 — August 2019** · Moscow
 
-Designed and implemented a new compilation phase for a binary translator.
+Designed and implemented a new compilation phase in a production binary translator, expanding its optimization opportunities for target code.
 
 ### Senior / Junior Software Engineer — Moscow Institute of Physics and Technology
 **September 2016 — July 2018** · Laboratory of Complex Organizational and Technological Systems (SLOTS)
@@ -59,25 +59,22 @@ Compiler-team development for the Intel Compiler (C++); system-administration au
 
 ## Skills
 
-**Languages & compilers** · Rust · C/C++ · Python · Bash · Assembler · LLVM · GDB · compilers & binary translators
+**Languages** · Rust · C/C++ · Python · Bash · x86-64 / ARM assembly
 
-**Blockchain & cryptography** · Ethereum · Web3 · Solidity · WASM · secp256k1 / FROST / DLEQ · ZK
+**Compilers & runtimes** · LLVM · binary translation · WASM · JIT / runtime internals · GDB
 
-**Systems & tooling** · Linux · ARM · Git · GitHub · CMake · AI coding tools (Claude Code, Codex)
+**Systems & tooling** · Linux · ARM · CMake · Git · performance analysis
 
-**Strengths** · algorithm & solution design · end-to-end ownership · AI-assisted development · code review · technical writing
+**Distributed systems & cryptography** · BFT consensus · Ethereum · Solidity · secp256k1 / FROST / DLEQ · ZK
 
 ---
 
 ## Education
 
-**Master's degree — 2019**
-Moscow Institute of Physics and Technology (MIPT)
-Faculty of Radio Engineering and Computer Technologies (FRKT) — Applied Mathematics and Physics
+**Moscow Institute of Physics and Technology (MIPT)**
 
-**Bachelor's degree — 2016**
-Moscow Institute of Physics and Technology (MIPT)
-Faculty of Radio Engineering and Cybernetics (FRTK) — Applied Mathematics and Physics
+- M.S., Applied Mathematics and Physics — 2019
+- B.S., Applied Mathematics and Physics — 2016
 
 ---
 
@@ -90,6 +87,6 @@ Faculty of Radio Engineering and Cybernetics (FRTK) — Applied Mathematics and 
 
 ## About me
 
-Where I'd like to go next: the compute infrastructure underneath AI. I'm less drawn to building the models themselves than to the systems they run on — making large-scale, compute-hungry AI workloads faster and more efficient through performance engineering, runtimes, and compilers.
+Where I'd like to go next: the compute infrastructure underneath AI. I'm less drawn to building the models themselves than to the systems they run on — making large-scale, compute-hungry workloads faster and more efficient through performance engineering, runtimes, and compilers.
 
 Off-hours: piano, sport, travel. Driver's license category B.
