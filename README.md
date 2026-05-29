@@ -1,12 +1,14 @@
 ### Hi, I'm Grigorii Sobol 👋
 
+<img align="right" width="170" src="./photo.jpg" alt="Grigorii Sobol" />
+
 **Senior Software Engineer** — performance-critical systems at the intersection of **compilers, distributed runtimes, and cryptography**.
 
-Currently at **Gear Technologies**, fully on Rust. Core developer of the **Vara Network** L1 and architect of **Vara.eth** — an Ethereum-anchored rollup with its own block-producer, announces protocol, signer, and BFT consensus (Malachite). **Tech Lead of Vara.eth** since 2026.
+Currently at **Gear Technologies**, fully on Rust. Core developer of the **Vara Network** L1 and architect of **Vara.eth** — an Ethereum-anchored rollup with its own block-producer, announces protocol, signer, and BFT consensus (Malachite). **Team lead of Vara.eth** since 2026.
 
 Before that: low-level toolchains — compiler support at **Intel**, an LLVM back-end and DSP simulator at **MIPT**, internal binary translators at **NVIDIA**, and a Linux-based universal binary translator at **Huawei** (Senior SWE / Team Lead). Mostly C/C++, with Python and Bash around it.
 
-I like owning a subsystem end-to-end — from the RFC to the merged PR — and keeping it correct, fast, and debuggable. **Next:** bringing this stack into AI infrastructure — agent runtimes on WASM, inference/training pipelines, verifiable compute.
+What I do best: invent algorithms, design solutions, and take them end-to-end to finished, production code — increasingly alongside AI coding tools (Claude Code, Codex). **Next:** the compute infrastructure under AI — making large-scale, compute-hungry workloads faster and more efficient through performance engineering, runtimes, and compilers.
 
 ---
 
@@ -18,8 +20,9 @@ I like owning a subsystem end-to-end — from the RFC to the merged PR — and k
 
 #### 📄 Résumé
 
-- **[resume.pdf](./resume.pdf)** — ready-to-read PDF
-- **[resume.md](./resume.md)** — editable source
+- 🇪🇺 **[EU — with photo](./resume/eu/resume.pdf)** · [source](./resume/eu/resume.md)
+- 🇬🇧🇺🇸 **[US / UK — no photo](./resume/us/resume.pdf)** · [source](./resume/us/resume.md)
+- 🇷🇺 **[Russian](./resume/ru/resume.pdf)** · [source](./resume/ru/resume.md)
 
 #### 📫 Reach me
 
