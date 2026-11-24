@@ -1,35 +1,23 @@
-### Hi, I'm Grigorii Sobol 👋
+# Grigorii Sobol
 
-<img align="right" width="170" src="./photo.jpg" alt="Grigorii Sobol" />
+**Senior Rust engineer — blockchain nodes, consensus, and WebAssembly execution.**
 
-**Senior Software Engineer** — performance-critical systems at the intersection of **compilers, distributed runtimes, and cryptography**.
+Based in Belgrade, Serbia. Open to remote work and relocation for roles outside Russia.
 
-Currently at **Gear Technologies**, fully on Rust. Core developer of the **Vara Network** L1 and architect of **Vara.eth** — an Ethereum coprocessor with a fast BFT consensus on Malachite, the Gear protocol for program execution, and governance through Ethereum smart contracts. **Team lead of Vara.eth** since 2026.
+At **Gear Technologies (September 2021–July 2026)**, I was a core developer of the Vara Network node and, from 2024, a core engineer of **Vara.eth (ethexe)**, an Ethereum rollup with its own execution layer. I **designed and implemented the block producer, the block announcement protocol, three-block consensus and database versioning**, and implemented the Symbiotic restaking middleware with validator election and slashing logic. I migrated consensus to the Malachite BFT engine and introduced AI-assisted code review into the project's CI. From **January through July 2026, I led the team of 5+ engineers**: planning, design reviews, code review and backlog triage.
 
-Before that: low-level toolchains — compiler support at **Intel**, an LLVM back-end and DSP simulator at **MIPT**, internal binary translators at **NVIDIA**, and a Linux-based universal binary translator at **Huawei** (Senior SWE / Team Lead). Mostly C/C++, with Python and Bash around it.
+## Selected public work
 
-What I do best: invent algorithms, design solutions, and take them end-to-end to finished, production code — increasingly alongside AI coding tools (Claude Code, Codex). **Next:** the compute infrastructure under AI — making large-scale, compute-hungry workloads faster and more efficient through performance engineering, runtimes, and compilers.
+- **[Malachite BFT integration — Gear #5419](https://github.com/gear-tech/gear/pull/5419).** I authored this merged PR connecting the consensus engine to application block construction, proposal validation, and persistent state.
+- **[Lazy-pages charging — Gear #1988](https://github.com/gear-tech/gear/pull/1988).** I authored this merged change for memory-access gas accounting across native and WebAssembly runtime paths.
+- **[AArch64 popcnt fix — Wasmer #3211](https://github.com/wasmerio/wasmer/pull/3211).** An upstream fix I contributed for an infinite loop during Singlepass popcnt execution on AArch64.
 
----
+## Background
 
-#### 🛠️ Tech
+Before Gear, I worked on a C++ binary translator and its test infrastructure at **Huawei**, an internal C binary translator at **NVIDIA**, an LLVM backend and DSP simulator at **MIPT**, and compiler support and automation at **Intel**.
 
-`Rust` · `C/C++` · `Python` · `Bash` · `LLVM` · `WASM` · `Compilers & Binary Translators`
-`Blockchain` · `Web3` · `Ethereum` · `Solidity` · `Cryptography (secp256k1 / FROST / DLEQ)` · `ZK`
-`Linux` · `Git` · `ARM` · `GDB` · `Assembler`
+Recent work: **Rust, WebAssembly runtimes, consensus, block production, and persistent node state**. Earlier work: **C/C++, LLVM, binary translation, Python, and Bash**.
 
-#### 📄 Résumé
+I am looking for **protocol, node, or rollup engineering** roles.
 
-- 🇪🇺 **[EU — with photo](./resume/eu/resume.pdf)** · [source](./resume/eu/resume.md)
-- 🇬🇧🇺🇸 **[US / UK — no photo](./resume/us/resume.pdf)** · [source](./resume/us/resume.md)
-- 🇷🇺 **[Russian](./resume/ru/resume.pdf)** · [source](./resume/ru/resume.md)
-
-#### 📫 Reach me
-
-- Email: **grishasobolo@gmail.com**
-- LinkedIn: **[in/gsobol](https://www.linkedin.com/in/gsobol/)**
-- GitHub: **[@grishasobol](https://github.com/grishasobol)**
-
-Open to remote and to relocation in EU / UK / US.
-
-<sub>🎹 Off-hours: piano, sport, travel.</sub>
+[LinkedIn](https://www.linkedin.com/in/gsobol/) · [Email](mailto:grishasobolo@gmail.com)
